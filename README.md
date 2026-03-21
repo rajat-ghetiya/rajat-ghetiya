@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Rajat! 👋
 
-<!--
-**rajat-ghetiya/rajat-ghetiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Backend Developer | Aspiring DevOps & Cloud Engineer
+I have 3 years of experience building scalable backend systems with Java and Spring Boot. Currently, I am deepening my expertise in Cloud Infrastructure (AWS) and Automation (Docker, Kubernetes, Ansible).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 2026 Tech Stack & Tools
+- **Languages:** Java 17, SQL
+- **Frameworks:** Spring Boot, Microservices, Hibernate
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, Ansible, Terraform
+- **Databases:** MySQL, MSSQL
+- **IDE/Tools:** IntelliJ IDEA, Git, Maven
+
+### What I'm Working On
+- 🚀 Automating Java Microservices deployments using **Kubernetes**.
+- ☁️ Building Infrastructure-as-Code (IaC) projects with **Terraform**.
+- 🛠️ Enhancing CI/CD pipelines for Spring Boot applications.
+
+### Connect with Me
+- [LinkedIn](www.linkedin.com/in/)
+
+---
+![Rajat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
