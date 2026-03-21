@@ -8,7 +8,7 @@ I have 3 years of experience building scalable backend systems with Java and Spr
 ### 2026 Tech Stack & Tools
 - **Languages:** Java 17, SQL
 - **Frameworks:** Spring Boot, Microservices, Hibernate
-- **Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, Ansible, Terraform
+- **Cloud & DevOps:** AWS, Docker, Jenkins
 - **Databases:** MySQL, MSSQL
 - **IDE/Tools:** IntelliJ IDEA, Git, Maven
 
