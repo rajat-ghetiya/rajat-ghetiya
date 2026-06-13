@@ -18,7 +18,7 @@ I have 3 years of experience building scalable backend systems with Java and Spr
 - 🛠️ Enhancing CI/CD pipelines for Spring Boot applications.
 
 ### Connect with Me
-- [LinkedIn](www.linkedin.com/in/)
+- [LinkedIn](www.linkedin.com/in/rajatghetiya)
 - [Portfolio](https://rajatghetiya.netlify.app/)
 
 ---
