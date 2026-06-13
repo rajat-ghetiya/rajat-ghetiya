@@ -10,7 +10,7 @@ I have 3 years of experience building scalable backend systems with Java and Spr
 - **Frameworks:** Spring Boot, Microservices, Hibernate
 - **Cloud & DevOps:** AWS, Docker, Jenkins
 - **Databases:** MySQL, MSSQL
-- **IDE/Tools:** IntelliJ IDEA, Git, Maven
+- **IDE/Tools:** IntelliJ IDEA, Git, Mavengheiy
 
 ### What I'm Working On
 - 🚀 Automating Java Microservices deployments using **Kubernetes**.
@@ -19,6 +19,7 @@ I have 3 years of experience building scalable backend systems with Java and Spr
 
 ### Connect with Me
 - [LinkedIn](www.linkedin.com/in/)
+- [Portfolio](rajatghetiya@netlify.app)
 
 ---
 ![Rajat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
